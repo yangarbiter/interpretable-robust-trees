@@ -1,0 +1,9 @@
+autovar
+joblib
+mkdir_p
+cvxpy
+scikit-learn
+numpy
+numba
+tqdm
+ipdb

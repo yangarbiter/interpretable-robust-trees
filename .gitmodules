@@ -1,0 +1,6 @@
+[submodule "risk-slim"]
+	path = risk-slim
+	url = https://github.com/ustunb/risk-slim.git
+[submodule "RobustTrees"]
+	path = RobustTrees
+	url = https://github.com/chenhongge/RobustTrees.git
